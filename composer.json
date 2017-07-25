@@ -15,5 +15,8 @@
     "require": {
         "php": ">=5.6.0",
         "mcashp/magento-module-affiliate": "~1.0"
+    },
+    "extra": {
+        "package-xml": "package.xml"
     }
 }
